@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3899cb2c-b970-4e02-b3c6-c88d3000f58f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/MoodAnalyzerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/MoodAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/MoodAnalyzerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/MoodAnalyzerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
       <recent name="com.bridgelabz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MoodAnalyzerTest">
+  <component name="RunManager" selected="JUnit.MoodAnalyzerTest.givenMessage_whenHappy_ShouldReturnHappy">
     <configuration name="MoodAnalyzer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.MoodAnalyzer" />
       <module name="Mood_Analyzer_Program" />
@@ -115,10 +111,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MoodAnalyzerTest.givenMessage_whenHappy_ShouldReturnHappy" />
+        <item itemvalue="JUnit.MoodAnalyzerTest.givenMessage_whenSad_ShouldReturnSad" />
         <item itemvalue="Application.MoodAnalyzerTest" />
         <item itemvalue="Application.MoodAnalyzer" />
-        <item itemvalue="JUnit.MoodAnalyzerTest.givenMessage_whenSad_ShouldReturnSad" />
-        <item itemvalue="JUnit.MoodAnalyzerTest.givenMessage_whenHappy_ShouldReturnHappy" />
       </list>
     </recent_temporary>
   </component>
